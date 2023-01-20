@@ -1,0 +1,161 @@
+[
+
+  {
+    "name": "Fashion",
+    "id": 13,
+    "children": [
+      {
+        "name": "Men's Bottom Wear",
+        "id": 21,
+        "children": [
+          { "name": "Jeans", "id": 41},
+          { "name": "Shorts", "id": 42 },
+          { "name": "Track pants", "id": 43 }
+        ]
+      },
+      {
+        "name": "Women Ethnic",
+        "id": 22,
+        "children": [
+          { "name": "Kurtas & Kurtis", "id": 41},
+          { "name": "Tops & Blouses", "id": 42 },
+          { "name": "Lehengas ", "id": 43},
+          {"name": " Sarees", "id": 44},
+          {"name": "Bottoms", "id": 45   },
+          { "name": "Dresses & ethnic kurti", "id": 56},
+          {"name": "Ethnic Matching Separates", "id": 57},
+          {"name": "Ethnic Loungewear", "id": 58   }
+        ]
+      },
+      {
+        "name": "Women Western",
+        "id": 23,
+        "children": [
+          { "name": "Jeans", "id": 51},
+          { "name": "Tops ", "id": 52 },
+          { "name": "Skirts", "id": 53},
+          {"name": "Pre-Stitched Sarees", "id": 54},
+          {"name": "Bottoms", "id": 59   },
+          { "name": "Dresses & Jumpsuits", "id": 56},
+          {"name": "Matching Separates", "id": 57},
+          {"name": "Loungewear", "id": 58   }
+        ]
+      },
+      {
+        "name": "Men Footwear",
+        "id": 24
+      },
+      {
+        "name": "Women Footwear",
+        "id": 25
+      },
+      {
+        "name": "Watch and Accessories",
+        "id": 26,
+        "children": [
+          { "name": "Fastrack", "id": 41 },
+          { "name": "Noise", "id": 42 },
+          { "name": "Firbolt", "id": 43 }
+        ]
+      }
+      
+    ]
+    
+  },
+  {
+    "name": "Electronics",
+    "id": 14,
+    "children": [
+      {
+        "name": "Mobile & accessories",
+        "id": 21
+      },
+      {
+        "name": "TVs",
+        "id": 22
+      },
+      {
+        "name": "Power Banks",
+        "id": 23
+      },
+      {
+        "name": "Laptops",
+        "id": 24
+      },
+      {
+        "name": "Mouse",
+        "id": 25
+      },
+      {
+        "name": "Battery & chargers",
+        "id": 26,
+        "children": [
+          { "name": "Laptop batteries", "id": 41 },
+          { "name": "Mobile battries", "id": 42 },
+          { "name": "Iphone Charger", "id": 43 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Books",
+    "id": 15,
+    "children": [
+      {
+        "id": 31,
+        "name": "Health,Family & Personal Devlopment ",
+        "children": [
+          { "name": "Rich Dad poor Dad", "id": 41 },
+          { "name": "Healthy living and wellness", "id": 42 },
+          { "name": "The Hero of Tiger Hill", "id": 43 }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Business & Economics",
+        "children": [
+          {
+            "id": 53,
+            "name": "Tools for Success"
+          },
+          {
+            "id": 54,
+            "name": "The Richest Man in "
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Religion & Spirtual"
+      }
+    ]
+  },
+  {
+    "name": "Grocery",
+    "id": 16,
+    "children": [
+      { "name": "Dry Fruits", "id": 69 },
+      { "name": "Noodles", "id": 67 },
+      { "name": "Pickles", "id": 63 }
+    ]
+  },
+  {
+    "name": "Beauty,Toys & more",
+    "id": 17,
+    "children": [
+      {
+        "id": 39,
+        "name": "Makeup & Toys",
+        "children": [
+          { "name": "Moisturizer", "id": 69 },
+          { "name": "Shampoos", "id": 67 },
+          { "name": "Cold cream", "id": 63 }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Dolls"
+      }
+    ]
+  }
+]
